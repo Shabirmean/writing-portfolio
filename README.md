@@ -15,7 +15,7 @@ _(Visit [link](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_s
 ---
 
 #### 3. [Monitors in Process Synchronization](https://stackoverflow.com/questions/46919797/why-is-a-monitor-implemented-in-terms-of-semaphores-this-way/50960905#50960905)
-- An explanation to what **OS Monitors** are and how they are implemented using semaphores
+- An explanation about what **OS Monitors** are and how they are implemented using semaphores
 - Most upvoted answer for the specific stackoverflow question
 > **Contribution:** Written and described entirely by me 
 ---
