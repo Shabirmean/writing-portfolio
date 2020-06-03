@@ -36,4 +36,5 @@ _(Visit [link](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_s
 
 #### 6. [Analytics in WSO2 IoT Server](https://youtu.be/F4Ss5SU_VGM?t=2111)
 - A video where I present support for Analytics in WSO2 IoT Server _(I was an engineer who worked in building the product)_
+- It was presented at a meetup of upto 50 people where the attendees were Software Engineers and Developers from different companies
 > **Contribution:** The talk between 35:11 and 46:00 is presented by me
