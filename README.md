@@ -4,6 +4,7 @@
 _(Visit [link](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_started) to read)_
 - A step by step guide to writing a CloudMc Plugin
 - The example explained is based off of an idea to integrate CloudMc with the [Todoist](https://todoist.com) service
+- Written as a side responsibilty whilst working as a Cloud-Developer at CloudOps
 > **Contribution:** The entire section under the topic _Build your own CloudMc Plugin_ was authored by me including the sample plugin implementation
 ---
 
