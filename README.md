@@ -21,6 +21,13 @@ _(Visit [link](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_s
 - Most upvoted answer for the specific stackoverflow question
 > **Contribution:** Written and described entirely by me 
 
-#### 7. [Analytics in WSO2 IoT Server](https://youtu.be/F4Ss5SU_VGM?t=2111)
+#### 5. [Distribution, Transaction Management and Replication](https://github.com/Shabirmean/writing-portfolio/blob/master/DistributedSystems.pdf)
+- An in-depth discussion of the implementation and evaluation of a distributed reservation system
+- Discusses how distribution, distributed transactions and replication is handled
+- Also provides a performance analysis of the project
+- Written as part of the graduate course-work at McGill University
+> **Contribution:** Everything starting from section 1.4 was written by me
+
+#### 6. [Analytics in WSO2 IoT Server](https://youtu.be/F4Ss5SU_VGM?t=2111)
 - A video where I present support for Analytics in WSO2 IoT Server _(I was an engineer who worked in building the product)_
 > **Contribution:** The talk between 35:11 and 46:00 is presented by me
