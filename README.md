@@ -4,7 +4,7 @@
 _(Visit [link](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_started) to read)_
 - A step by step guide to writing a CloudMc Plugin
 - The example explained is based off of an idea to integrate CloudMc with the [Todoist](https://todoist.com) service
-> **Contribution:** An entire section under the topic _Build your own CloudMc Plugin_ was authored by me including the sample plugin implementation
+> **Contribution:** The entire section under the topic _Build your own CloudMc Plugin_ was authored by me including the sample plugin implementation
 ---
 
 #### 2. [WSO2 IoT Server - A Case Study](https://github.com/Shabirmean/writing-portfolio/blob/master/WSO2IoTServer.pdf)
