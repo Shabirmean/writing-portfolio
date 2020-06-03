@@ -10,7 +10,7 @@ _(Visit [link](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_s
 
 #### 2. [WSO2 IoT Server - A Case Study](https://github.com/Shabirmean/writing-portfolio/blob/master/WSO2IoTServer.pdf)
 - A reversed engineered case study of the architecture/design of the [WSO2 IoT Server](https://wso2.com/iot/)
-- Written as part of the graduate course-work at McGill University
+- Written as part of the graduate coursework at McGill University
 > **Contribution:** Written entirely by me given that I used to work as an engineer building the IoT Server at WSO2
 ---
 
@@ -30,7 +30,7 @@ _(Visit [link](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_s
 - An in-depth discussion of the implementation and evaluation of a distributed reservation system
 - Discusses how distribution, distributed transactions and replication is handled
 - Also provides a performance analysis of the project
-- Written as part of the graduate course-work at McGill University
+- Written as part of the graduate coursework at McGill University
 > **Contribution:** Everything starting from section 1.4 was written by me
 ---
 
