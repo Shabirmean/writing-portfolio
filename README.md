@@ -1,7 +1,7 @@
 # Writing Portfolio
 ---
 
-While I have been mainly focussing on engineering and building software these are some of the publicly available written work of mine. These came at different times in my career since moving to Canada from Sri Lanka in 2016.
+_While I have been mainly focussing on engineering and building software these are some of the **publicly available** written work of mine. These came at different times in my career since moving to Canada from Sri Lanka in 2016._
 
 #### 1. [Build your own CloudMc Plugin](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_started)
 _(Visit [link](https://cloudops.github.io/cloudmc-docs/#/custom_plugin/getting_started) to read)_
